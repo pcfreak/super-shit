@@ -1,7 +1,7 @@
 # Script HANGTUAH V8-Websocket
- Welcome MAT KILAU😊
+ Welcome WaGo_G😊
 
- <h2 align="center">AutoScript VPN By HANGTUAH <img src="https://img.shields.io/badge/Version-6.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By WaGo_G <img src="https://img.shields.io/badge/Version-6.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -30,9 +30,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## INSTALLATION SCRIPT
 
   ```html
-  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/pcfreak
-/
-super-shit/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/pcfreak/super-shit/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
  
@@ -102,7 +100,7 @@ systemctl restart wg-quick@wg0
 
 ## Credit :
 
-*   HANGTUAH
+*   WaGo_G
 
 *   Project D
 
